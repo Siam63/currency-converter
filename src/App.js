@@ -54,7 +54,7 @@ function App() {
 
   return (
     <>
-      <h2>Welcome to my currency converter</h2>
+      <h2>Welcome to my currency converter!</h2>
       <h1>Convert</h1>
       <CurrencyRow
         currencyOptions = {currencyOptions}
